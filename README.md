@@ -35,7 +35,7 @@ Key business questions answered:
 
 ## 📂 Dataset Information
 
-**Dataset:** IBM Employee Attrition Dataset
+**Dataset:** IBM HR Analytics Employee Attrition & Performance Dataset
 
 ### Dataset Highlights
 
@@ -173,6 +173,21 @@ Includes:
 - Power Query
 - DAX
 - Microsoft Excel
+
+---
+
+## 🔑 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX
+- Power Query
+- Dashboard Design
+- KPI Development
+- HR Analytics
+- Data Storytelling
+- Business Intelligence
 
 ---
 
